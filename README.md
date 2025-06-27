@@ -1,2 +1,2 @@
 # Numerical-Analysis-Algorithms
-Implementation of numerical analysis algorithms in Python
+Implementation of numerical analysis algorithms in Python.
